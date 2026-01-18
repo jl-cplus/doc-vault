@@ -1,7 +1,6 @@
 # Pacman Cheatsheet
 
-Pacman is the package manager for Arch Linux.  
-It handles installing, updating, removing, and querying software packages.  
+Pacman is the package manager for Arch Linux. It handles installing, updating, removing, and querying software packages.  
 
 ### System Maintenance
 ```
